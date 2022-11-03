@@ -1,0 +1,31 @@
+* {
+  list-style: none;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#mainDiv {
+  background-color: blanchedalmond;
+  width: 70%;
+}
+
+#h1Cabezera {
+  background-color: orange;
+  margin-top: 0;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.cursiva {
+  font-style: italic;
+}
+
+.colorAz {
+  color: blue;
+}
