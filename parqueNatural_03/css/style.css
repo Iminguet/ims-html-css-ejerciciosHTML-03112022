@@ -1,0 +1,47 @@
+body {
+  font-family: 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: black;
+  margin: 0 auto;
+  width: 900px;
+}
+
+h1 {
+  color: green;
+  text-align: center;
+  width: 100%;
+}
+span {
+  color: orange;
+}
+
+ul a {
+  font-size: smaller;
+  color: blue;
+}
+
+body,
+#mainContent {
+  padding: 1em 2em;
+  border: 0.5em solid rgb(236, 236, 236);
+}
+
+#mainContent > h2 {
+  border-bottom: 1px solid rgb(236, 236, 236);
+  color: rgb(11, 187, 11);
+}
+
+#mainContent h3 {
+  color: rgb(240, 157, 2);
+}
+
+#contenido {
+  display: flex;
+  justify-content: flex-start;
+}
+
+#mainContent {
+  width: 75%;
+}
+#enlaces {
+  width: 20%;
+}
