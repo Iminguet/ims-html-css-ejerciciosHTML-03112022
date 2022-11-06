@@ -16,8 +16,6 @@
 
 HTML/CSS tareas de refuerzo. Como parte del Bootcamp de Ángular impartido por GeeksHubs academy
 
-<img src="" />
-
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40px" width="40px" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40px" width="40px" /></a>
 
 ## Para empezar
